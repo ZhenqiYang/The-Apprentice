@@ -1,4 +1,4 @@
-certifi==2019.3.9
+dwwddwdddddddddddddddddddddddddddddddddcertifi==2019.3.9
 Django==2.0
 emoji==0.5.1
 mysql-connector==2.2.9
